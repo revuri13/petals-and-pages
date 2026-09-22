@@ -1,16 +1,73 @@
-# React + Vite
+# Petals & Pages 🌿📚☕
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A cozy bookstore, café, and flower shop experience built with React and JavaScript.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://petals-and-pages-two.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About the Project
 
-## React Compiler
+Petals & Pages is a responsive boutique shopping experience that brings together books, artisan coffee, and fresh flowers in one warm and atmospheric interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project focuses on creating an engaging user experience through thoughtful visual design, responsive layouts, interactive product browsing, and reusable React components.
 
-## Expanding the Oxlint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Browse curated books, café favorites, and flower collections
+- Add products to a shopping bag
+- Increase and decrease product quantities
+- Remove items from the shopping bag
+- Dynamic cart count and subtotal
+- Save books to favorites
+- Search across books, café items, and flowers
+- Expand and collapse product collections
+- Toast notifications for user actions
+- Responsive mobile navigation
+- Smooth scroll-reveal animations
+- Responsive design for desktop, tablet, and mobile
+
+## Tech Stack
+
+- React
+- JavaScript
+- Vite
+- CSS
+- React Icons
+- Git & GitHub
+- Vercel
+
+## Project Structure
+
+```text
+src/
+├── components/
+├── data/
+├── App.jsx
+├── main.jsx
+└── styles.css
+
+public/
+└── images/
+```
+
+## Live Demo
+
+Explore the project here:
+
+https://petals-and-pages-two.vercel.app
+
+## Future Improvements
+
+- Persist cart and favorites using local storage
+- Add complete checkout functionality
+- Further optimize the mobile shopping bag experience
+- Continue accessibility improvements
+
+## Disclaimer
+
+Petals & Pages is a frontend portfolio project created for demonstration purposes. Store information and checkout functionality are for demonstration only.
+
+## Author
+
+**Veenu Amrapali Revuri**
+
+Front-End Developer & UI/UX Designer
