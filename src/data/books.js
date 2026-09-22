@@ -1,0 +1,58 @@
+export const books = [
+  {
+    id: 1,
+    title: "The Midnight Library",
+    author: "Matt Haig",
+    price: 16.99,
+    image: "/images/midnight-library.jpg",
+  },
+  {
+    id: 2,
+    title: "The Palace of Illusions",
+    author: "Chitra Banerjee Divakaruni",
+    price: 15.99,
+    image: "/images/palace-of-illusions.jpg",
+  },
+  {
+    id: 3,
+    title: "Atomic Habits",
+    author: "James Clear",
+    price: 16.99,
+    image: "/images/atomic-habits.jpg",
+  },
+  {
+    id: 4,
+    title: "The God of Small Things",
+    author: "Arundhati Roy",
+    price: 15.99,
+    image: "/images/god-of-small-things.jpg",
+  },
+  {
+    id: 5,
+    title: "The Zoya Factor",
+    author: "Anuja Chauhan",
+    price: 14.99,
+    image: "/images/the-zoya-factor.jpg",
+  },
+  {
+    id: 6,
+    title: "Those Pricey Thakur Girls",
+    author: "Anuja Chauhan",
+    price: 15.99,
+    image: "/images/those-pricey-thakur-girls.jpg",
+  },
+  {
+    id: 7,
+    title: "When Dimple Met Rishi",
+    author: "Sandhya Menon",
+    price: 13.99,
+    image: "/images/when-dimple-met-rishi.jpg",
+  },
+  {
+    id: 8,
+    title: "Book Lovers",
+    author: "Emily Henry",
+    price: 16.99,
+    image: "/images/book-lovers.jpg",
+  },
+];
